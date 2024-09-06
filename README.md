@@ -34,4 +34,4 @@
   <li>Enjoy the game!</li>
 </ol>
 <h3>Or</h3>
-<p>Click on this link to enjoy: <a href="https://akshatsharma2003.github.io/Stone-Paper-Scissors-Game/"></a> </p>
+<p>Click on this link to enjoy: <a href="https://akshatsharma2003.github.io/Stone-Paper-Scissors-Game/">Play</a> </p>
